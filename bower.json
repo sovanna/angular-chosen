@@ -1,13 +1,13 @@
 {
   "name": "angular-chosen-localytics",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "main": "chosen.js",
   "ignore": [
     "src",
     "example"
   ],
   "dependencies": {
-    "chosen": "git@github.com:sovanna/bower-chosen.git",
+    "chosen": "https://github.com/sovanna/bower-chosen",
     "angular": ">=1.2.0"
   }
 }
